@@ -1,6 +1,6 @@
 0.002   2019-06-15 (PERLANCAR)
 
-	- Add CLI aliases: turn-bluetooth-off -> turn-off-bluetooth,
+	- [ux] Add CLI aliases: turn-bluetooth-off -> turn-off-bluetooth,
 	  turn-bluetooth-on -> turn-on-bluetooth.
 
 
